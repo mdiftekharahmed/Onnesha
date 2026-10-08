@@ -1,6 +1,6 @@
-# অন্বেষা (Onnesha)
+# ONNESHA (Onnesha)
 
-**অন্বেষা** is a coordinated UAV search-and-rescue system that helps responders locate people and animals in disaster zones and remote terrain. It combines radiometric long-wave infrared (LWIR) sensing, visible imagery, onboard AI, cooperative drone searches, and an airborne communications network.
+**ONNESHA** is a coordinated UAV search-and-rescue system that helps responders locate people and animals in disaster zones and remote terrain. It combines radiometric long-wave infrared (LWIR) sensing, visible imagery, onboard AI, cooperative drone searches, and an airborne communications network.
 
 > **Project scope:** Civilian search and rescue, including locating lost hikers and tourists. This plan does not cover military targeting or locating people as adversaries.
 
